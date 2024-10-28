@@ -4,9 +4,9 @@ I'm an experienced **Senior Software Engineer** with 5+ years of experience, spe
 
 ##
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Beretta350&show_icons=true&hide=contribs&count_private=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Beretta350&show_icons=true&hide=contribs&count_private=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta350&layout=donut&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta350&layout=donut&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="beret-Go" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">

@@ -1,6 +1,7 @@
-# Hello there! 👋
+# Hello there! 👋  
+## I'm Gabriel
 
-I'm an experienced **Senior Software Engineer** with 5+ years of experience, specializing in **Golang**, **Java**, **ReactJS**, and **AWS services**, focusing on REST APIs, event-driven and microservices architectures. I'm a passionate **Developer** with a strong focus on **scalable microservices**, **API development**, and **high-performance system design**. I enjoy building reliable, efficient, and secure solutions, leveraging modern tools and architectures to make a real impact.
+A Senior Software Engineer focused on building scalable, reliable, and maintainable backend systems using **Golang**, **Python**, and cloud-native technologies. With 7+ years of experience specializing in designing **RESTful APIs**, **microservices**, and **event-driven distributed systems** on **AWS**.
 
 ##
 
@@ -10,11 +11,11 @@ I'm an experienced **Senior Software Engineer** with 5+ years of experience, spe
 
 <div style="display: inline_block"><br>
   <img align="center" alt="beret-Go" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="beret-Go" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="beret-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="beret-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="beret-AWS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="beret-Kafka" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="beret-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="beret-tensor" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
 </div>
 

@@ -6,7 +6,8 @@
 </div>
 <br>
 
-A Senior Software Engineer focused on building scalable, reliable, and maintainable backend systems using **Golang**, **Python**, and cloud-native technologies. With 7+ years of experience specializing in designing **RESTful APIs**, **microservices**, and **event-driven distributed systems** on **AWS**.
+Senior Software Engineer with **8+ years** of experience building scalable and reliable systems using **Golang**, **Python**, React, and **AWS**.
+Focused on REST, gRPC, and GraphQL APIs, event-driven, and microservices. Experienced with Kafka, Docker, Kubernetes, and CI/CD pipelines. Strong background in SQL and NoSQL databases and cloud-native architectures. Currently working with **LLM-based features**, real-time streaming, and multi-model orchestration.
 
 ## 🔧 Tech Stack  
 - **Languages:** Golang, Python, Java, JavaScript and Typescript

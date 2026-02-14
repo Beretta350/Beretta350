@@ -20,12 +20,9 @@ Focused on REST, gRPC, and GraphQL APIs, event-driven, and microservices. Experi
 - **API Protocols:** REST, gRPC, GraphQL
 - **Tools & Utilities:** Cursor, fzf, AWS CLI, Git
 
+
 <img align="center" alt="beret-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"> <img align="center" alt="beret-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> <img align="center" alt="beret-type" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> <img align="center" alt="beret-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img align="center" alt="beret-postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img align="center" alt="beret-mongo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> <img align="center" alt="beret-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="beret-kube" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> <img align="center" alt="beret-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> <img align="center" alt="beret-Kafka" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"> <img align="center" alt="beret-grpc" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /> <img align="center" alt="beret-graph" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /> 
           
-
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beretta350&layout=donut&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
